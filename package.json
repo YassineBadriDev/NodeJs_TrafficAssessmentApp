@@ -1,0 +1,12 @@
+{
+  "name": "node-data-vis",
+  "version": "1.0.0",
+  "description": "Geolocation data vis demo",
+  "main": "main.js",
+  "author": "Juriy Bura <juriy.bura@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "socket.io": "^2.0.3"
+  }
+}
